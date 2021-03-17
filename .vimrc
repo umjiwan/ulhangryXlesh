@@ -23,6 +23,8 @@ set rtp+=~/.vim/bundle/Vundle.vim
 
 call vundle#begin()
 " vim-airline
+Plugin 'airblade/vim-gitgutter'
+
 Plugin 'majutsushi/tagbar'
 
 Plugin 'nathanaelkane/vim-indent-guides'
